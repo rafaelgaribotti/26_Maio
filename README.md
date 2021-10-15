@@ -4,7 +4,7 @@ Simple Travis example for C using GCC compiler based on the identifier program p
 
 Test results:
 
-[<img alt="Build Status" src="https://www.travis-ci.com/rafaelgaribotti/26_Maio.svg?branch=main" height="40">][travis-url]
+[<img alt="Build Status" src="https://www.travis-ci.com/rafaelgaribotti/TCS_Aula_7.svg?branch=main" height="40">][travis-url]
 
 Important files:
 
@@ -22,10 +22,10 @@ License
 -------
 MIT License. See [LICENSE](LICENSE) for details.
 
-[main-url]: https://github.com/rafaelgaribotti/26_Maio
-[readme-url]: https://github.com/rafaelgaribotti/26_Maio/blob/main/README.md
-[license-url]: https://github.com/rafaelgaribotti/26_Maio/blob/main/LICENSE
+[main-url]: https://github.com/rafaelgaribotti/TCS_Aula_7
+[readme-url]: https://github.com/rafaelgaribotti/TCS_Aula_7/blob/main/README.md
+[license-url]: https://github.com/rafaelgaribotti/TCS_Aula_7/blob/main/LICENSE
 [license-img]: https://img.shields.io/github/license/rsp/travis-hello-modern-cpp.svg
-[travis-url]: https://www.travis-ci.com/rafaelgaribotti/26_Maio
-[travis-img]: https://www.travis-ci.com/rafaelgaribotti/26_Maio.svg?branch=master
+[travis-url]: https://www.travis-ci.com/rafaelgaribotti/TCS_Aula_7
+[travis-img]: https://www.travis-ci.com/rafaelgaribotti/TCS_Aula_7.svg?branch=master
 [github-follow-url]: https://github.com/rafaelgaribotti
